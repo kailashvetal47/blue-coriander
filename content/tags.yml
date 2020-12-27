@@ -1,4 +1,6 @@
 - name: Demo
-  color: "#007acc"
+  color: '#007acc'
   icon: ./assets/images/logo.png
   featured: true
+- name: lorem-ipsum
+  featured: false
